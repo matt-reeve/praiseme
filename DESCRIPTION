@@ -1,0 +1,16 @@
+Package: praiseme
+Title: Gives Praise
+Version: 0.0.0.9000
+Authors@R: 
+    person("Matthew", "Reeve", , "matthew.reeve03@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Makes you feel good about yourself.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
